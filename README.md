@@ -1,3 +1,3 @@
 # clone-tabnews
 
-Aprendendo programação com o Felipão.
+Aprendendo programação com o Felipão!
